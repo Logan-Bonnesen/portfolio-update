@@ -9,6 +9,8 @@ This project is an updated to our professional porfolio.
 * [Contributions](#contributions)
 * [Test Instructions](#test)
 * [License](#license)
+* [Citations](#citations)
+* [Resume](#resume)
 * [Questions](#questions)
 
 ## Installation
@@ -29,6 +31,9 @@ This application is licensed by Mozilla.
 ## Citations
 Portfolio template taken and adapted from: 
 https://startbootstrap.com/theme/freelancer
+
+## Resume
+[Resume](https://docs.google.com/document/d/1HNwZmOgf8xpeJY05dfeIkjEeoDy0hXxJ3Tlvrqv8hLQ/edit?usp=sharing)
 
 ## Questions
 For any questions you can reach me at my email: Lbonnesen@gmail.com
